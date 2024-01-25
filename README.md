@@ -1,6 +1,6 @@
 <h1>Hello 👋</h1> 
 
-<h3>Quelque mots 🙂</h3> 
+## Quelque mots 🙂
 
 <p align="left">Je suis passionné par le développement web et j'ai décidé d'en faire mon métier à travers une reconversion professionnelle. Mon profil est axé sur PHP et Symfony, et j'adore travailler sur des projets qui me permettent d'explorer et d'améliorer mes compétences dans ces domaines.</p>
 
