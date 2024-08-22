@@ -4,11 +4,11 @@
 
 <p align="left">Je suis passionné par le développement web et j'ai décidé d'en faire mon métier à travers une reconversion professionnelle. Mon profil est axé sur PHP et Symfony, et j'adore travailler sur des projets qui me permettent d'explorer et d'améliorer mes compétences dans ces domaines.</p>
 
-- Actuellement : **Formation sur JavaScript**
+- Actuellement : **Formation sur Python**
 
 - Projet à venir : **Portfolio**
 
-- Objectif de cette année : **Maitriser Java**
+- Objectif de cette année : **Maitriser Python**
 
 ## Mon parcours 🚀
 <p align="left">Après 11 années d'expérience acquises au sein de l'armée, ponctuées par l'obtention d'un diplôme de développeur web (septembre 2023), je suis maintenant en recherche d'une entreprise afin de préparer mon titre professionnel de concepteur développeur d'application.</p>
