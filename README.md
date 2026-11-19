@@ -1,17 +1,8 @@
-<h1>Hello 👋</h1> 
-
-## Quelque mots 🙂
-
-<p align="left">Je suis passionné par le développement web et j'ai décidé d'en faire mon métier à travers une reconversion professionnelle. Mon profil est axé sur PHP et Laravel, et j'adore travailler sur des projets qui me permettent d'explorer et d'améliorer mes compétences dans ces domaines.</p>
-
-- Actuellement : **Formation sur Java**
-
-- Projet à venir : **Portfolio**
-
-- Objectif de cette année : **Maitriser Java**
-
-## Mon parcours 🚀
-<p align="left">Après 11 années d'expérience acquises au sein de l'armée, ponctuées par l'obtention d'un diplôme de développeur web lors de ma reconversion (septembre 2023), j'ai obtenu mon titre professionnel de concepteur développeur d'application (mai 2025).</p>
-
-## Technologies 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+Hello 👋 Moi c'est Jean-Philippe
+**Développeur full-stack Python / Django & Vue.js**, basé à Niort (79). ## Quelques mots 🙂 Je conçois des applications métier de bout en bout : API REST, bases de données, interface, conteneurisation et déploiement sur Kubernetes. J'aime aussi automatiser : workflows n8n, connexion à des API tierces, et depuis peu intégration de LLM locaux. - 🔭 Actuellement : **applications métier en Python/Django et Vue.js, déployées sur Kubernetes** - 🤖 En cours d'exploration : **LLM locaux (Mistral, Qwen) servis par Ollama et orchestrés avec n8n** - 🌱 Objectif : **progresser sur l'architecture logicielle et la qualité du code** ## Mon parcours 🚀 Après 11 ans dans l'Armée de Terre, j'ai choisi de me reconvertir dans le développement : - **2023** : Titre professionnel Développeur Web et Web Mobile - **2024 – 2025** : alternance, puis titre professionnel **Concepteur Développeur d'Applications** (niveau 6) - **Depuis** : développeur en CDI, sur des applications métier (pilotage de projets, diagnostics, suivi d'incidents de sécurité, conformité) ## Technologies 🛠️ **Back-end** 
+  
+**Front-end** 
+  
+**Déploiement & outillage** 
+    
+Et aussi : Gitea Actions / GitHub Actions (CI/CD), Microsoft Entra ID, SSO SAML, n8n, Ollama. ## Me contacter 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jp--gripacus-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jp-gripacus) 
