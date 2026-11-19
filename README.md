@@ -40,7 +40,8 @@ Après 11 ans dans l'Armée de Terre, j'ai choisi de me reconvertir dans le dév
 
 \<p align="left">   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg)" alt="Kubernetes" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg)" alt="Argo CD" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)" alt="Git" width="40" height="40"/> \</p>
 
-**Et aussi :** Gitea Actions, GitHub Actions (CI/CD), Microsoft Entra ID, SSO SAML, n8n et Ollama.
+**Et aussi :** Gitea Actions, GitHub Actions (CI/CD), Microsoft Entra ID, SSO SAML, n8n et Ollama.\</li>
+
 
 ---
 
