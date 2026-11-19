@@ -29,21 +29,24 @@ Après 11 ans dans l'Armée de Terre, j'ai choisi de me reconvertir dans le dév
 ## 🛠️ Technologies
 
 ### Back-end
-
-\<p align="left">   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="Python" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)" alt="Django" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL" width="40" height="40"/> \</p>
+- Python
+- Django
+- PostgreSQL
 
 ### Front-end
-
-\<p align="left">   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)" alt="Vue.js" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)" alt="TypeScript" width="40" height="40"/> \</p>
+- Vue.js
+- TypeScript
 
 ### Déploiement & outillage
+- Docker
+- Kubernetes
+- Argo CD
+- Git
 
-\<p align="left">   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg)" alt="Kubernetes" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg)" alt="Argo CD" width="40" height="40"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)" alt="Git" width="40" height="40"/> \</p>
-
-**Et aussi :** Gitea Actions, GitHub Actions (CI/CD), Microsoft Entra ID, SSO SAML, n8n et Ollama.\</li>
-
-
----
-
-## 📫 Me contacter
+### Autres outils
+- Gitea Actions / GitHub Actions (CI/CD)
+- Microsoft Entra ID
+- SSO SAML
+- n8n
+- Ollama
 
